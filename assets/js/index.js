@@ -75,4 +75,8 @@ $(function () {
             }
         );
     });
+
+
+    window.getUserInfo = getUserInfo
+
 });
